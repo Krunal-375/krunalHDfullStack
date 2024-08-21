@@ -1,0 +1,28 @@
+ASSIGNMENT 1
+Problem Statement (1 week):
+The process begins with recognizing the need for a shopping cart system in an online store. This need is clearly defined as the project's primary goal. Stakeholders gather to discuss initial requirements, outlining the basic functionalities the system should have and the problems it aims to solve for both the business and its customers. This stage is completed within 1 week, focusing on efficient problem definition and requirement gathering.
+
+Service Layer (1-2 weeks):
+In this stage, the focus shifts to planning the system's architecture. The team designs the user interaction flow, mapping out how customers will navigate through the shopping experience. They also plan the data flow, determining how information will move between different parts of the system. Finally, they select appropriate communication protocols to ensure efficient and secure data transfer. This phase is condensed to 1-2 weeks.
+
+Tech Stack:
+Front-end: React.js with Redux
+Back-end: Node.js with Express.js
+Database: MongoDB
+API: RESTful API
+Authentication: JSON Web Tokens (JWT)
+Version Control: Git with GitHub
+
+Development Stages (6-8 weeks):
+The development process is streamlined into several phases. Detailed planning and design are combined (1-2 weeks), where requirements are analyzed and the user interface and database structure are created. The implementation phase (3-4 weeks) sees the coding of front-end and back-end components, followed by integration (1 week). Testing and refinement are consolidated (1-2 weeks), focusing on critical functionality and performance optimization.
+
+Published Stage (2 weeks + Ongoing):
+Deployment is expedited to take 2-3 days. A brief soft launch period of 1 week allows for final adjustments before the full public launch. After launch, the team transitions to ongoing maintenance and evolution, continuously monitoring performance, releasing updates, and incorporating user feedback.
+
+Total estimated duration from problem statement to initial public launch: 10-13 weeks (2.5-3 months), with ongoing maintenance and improvements thereafter.
+
+MIND MAP:
+https://files.mymap.ai/exports/vozLNXpHhI1bn/Ky9NU6d4DoNxug7YcUkrf.png
+
+ASSIGNMENT 2
+What data we can store in shopping cart?
